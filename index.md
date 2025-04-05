@@ -9,49 +9,10 @@ git add
 git commit
 ```
 This site was built using [GitHub Pages](https://pages.github.com/).
-s
-s
-s
-s
-s
-ss
-s
-ss
-s
-s
-sss
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
-ss
-s
-s
-s
-s
-s
-s
-s
-s
-s
-s
+
 Link to the sample section: [Link Text](#kim-kilhoon-headings).
 [Contribution guidelines for this project](image/Kilhoon.jpg).
+
+-sthlist1
+-sthlist2
+-sthlist3
