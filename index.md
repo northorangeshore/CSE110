@@ -1,5 +1,5 @@
 # Kim, Kilhoon
-**this is bold text.**
+## Studying at UCSD
 _text is italic_
 > Text that is a quote // Quoting text
 
