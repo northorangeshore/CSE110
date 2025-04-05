@@ -10,8 +10,8 @@ My favorite language is **C++** so far, but I am recently interested on **Python
 2. **Tools**: Git, Visual Studio Code
 
 ### Social Links
-- [Linked in](https://www.linkedin.com/in/kilhoon-kim-24886a244/).
-- [HandShake](https://ucsd.joinhandshake.com/profiles/6yrtq5).
+- [Linked in](https://www.linkedin.com/in/kilhoon-kim-24886a244/)
+- [HandShake](https://ucsd.joinhandshake.com/profiles/6yrtq5)
 > Text that is a quote // Quoting text
 
 Some basic Git commands are: Quoting code
