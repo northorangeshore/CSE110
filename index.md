@@ -2,7 +2,8 @@
 
 ## About Me
 Hi, my name is Kilhoon but just call me Andy.
-I'm undergraduate junior student at Univesity of California, San Diego. I am majoring **computer science**.
+I'm undergraduate junior student at Univesity of California, San Diego.
+I am majoring **computer science**.
 My favorite language is **C++** so far, but I am recently interested on **Python**.
 
 ### My Skills
