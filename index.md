@@ -1,5 +1,5 @@
 # Kim, Kilhoon //headings
-**this is bold text**
+**this is bold text.**
 _text is italic_
 > Text that is a quote // Quoting text
 
