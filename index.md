@@ -1,6 +1,12 @@
-# Kim, Kilhoon
-## Studying at UCSD
-_text is italic_
+# Introduce About Me
+
+## About Me
+I'm undergraduate junior student at Univesity of California, San Diego. I am majoring **computer science**.
+My favorite language is **C++** so far, but I am recently interested on **python**.
+
+### My Skills
+- **Languages**: C++, C, Python, Java
+- **Tools**: Git, Visual Studio Code
 > Text that is a quote // Quoting text
 
 Some basic Git commands are: Quoting code
