@@ -1,12 +1,17 @@
 # Introduce About Me
 
 ## About Me
+Hi, my name is Kilhoon but just call me Andy.
 I'm undergraduate junior student at Univesity of California, San Diego. I am majoring **computer science**.
-My favorite language is **C++** so far, but I am recently interested on **python**.
+My favorite language is **C++** so far, but I am recently interested on **Python**.
 
 ### My Skills
 - **Languages**: C++, C, Python, Java
 - **Tools**: Git, Visual Studio Code
+
+### Social Links
+> **Linked in: [Linked in](https://www.linkedin.com/in/kilhoon-kim-24886a244/).
+> **Handshake: [HandShake](https://ucsd.joinhandshake.com/profiles/6yrtq5).
 > Text that is a quote // Quoting text
 
 Some basic Git commands are: Quoting code
