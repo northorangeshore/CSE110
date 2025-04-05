@@ -1,4 +1,4 @@
-# Kim, Kilhoon //headings
+# Kim, Kilhoon
 **this is bold text.**
 _text is italic_
 > Text that is a quote // Quoting text
