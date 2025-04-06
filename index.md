@@ -4,7 +4,7 @@ Hi, my name is Kilhoon but just call me Andy. Here's my [Social Links](#social-l
 I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**. I stared coding when I was 9th grade with how to print "Hello World" with using C.
 ```
-printf("Hello World!");
+printf("Hello World!"); 
 ```
 My favorite language is **C++** so far, but I am recently interested on **Python**.\
 One of quote that I like:
@@ -26,13 +26,6 @@ One of quote that I like:
 ## My Skills
 1. **Languages**: C++, C, Python, Java
 2. **Tools**: Git, Visual Studio Code
-
-I got interested on 
-```
-git status
-git add
-git commit
-```
 
 ## Things that I want to achieve this year:
 - [ ] Internship
