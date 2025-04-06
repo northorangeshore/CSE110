@@ -1,6 +1,5 @@
 ## About Me
-Hi, my name is Kilhoon but just call me [Andy](image/Kilhoon.jpg). Here's my [Social Links](#social-links)\
-<img src="image/Kilhoon.jpg" alt="Description of the image">
+Hi, my name is Kilhoon but just call me [Andy](image/Kilhoon.jpg). <img src="image/Kilhoon.jpg" alt="Description of the image" width="300" height="200"> Here's my [Social Links](#social-links)\
 I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**.
 My favorite language is **C++** so far, but I am recently interested on **Python**.\
