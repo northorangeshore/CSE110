@@ -1,5 +1,5 @@
 ## About Me
-Hi, my name is Kilhoon but just call me Andy.\ [Social Link](#social-links)
+Hi, my name is [Kilhoon](#social-links) but just call me Andy.\
 I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**.
 My favorite language is **C++** so far, but I am recently interested on **Python**.\
