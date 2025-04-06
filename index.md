@@ -3,8 +3,7 @@ Hi, my name is [Kilhoon](#social-links) but just call me Andy.\
 I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**.
 My favorite language is **C++** so far, but I am recently interested on **Python**.\
-My social links are 
-One of quote that I like:
+one of quote that I like:
 > _You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world._\
 > _And these cold, unfeeling machines will show us the way. -Bill Gates_
 
