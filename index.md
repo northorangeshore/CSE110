@@ -30,8 +30,6 @@ git add
 git commit
 ```
 
-[Contribution guidelines for this project](image/Kilhoon.jpg).
-
 ## Things that I want to achieve this year:
 - [ ] Internship
 - [ ] Expand Social Network
