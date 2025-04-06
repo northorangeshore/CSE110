@@ -1,5 +1,5 @@
 ## About Me
-<img src="image/Kilhoon.jpg" alt="Description of the image" width="300" height="200">
+<img src="image/Kilhoon.jpg" alt="Description of the image" width="300" height="200">\
 Hi, my name is Kilhoon but just call me [Andy](image/Kilhoon.jpg). Here's my [Social Links](#social-links)\
 I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**.
