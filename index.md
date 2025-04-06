@@ -4,15 +4,15 @@ I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**.
 My favorite language is **C++** so far, but I am recently interested on **Python**.\
 One of quote that I like:
-> You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world.\
-> And these cold, unfeeling machines will show us the way. -Bill Gates
+> _You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world._\
+> _And these cold, unfeeling machines will show us the way. -Bill Gates_
 
 ## Class that I been taking from school:
-- CSE 21
-- CSE 29
-- CSE 30
-- CSE 100
-- CSE 101
+- CSE 21: Mathematics for Algorithms and Systems
+- CSE 29: Systems Programming and Software Tools
+- CSE 30: Computer Organization
+- CSE 100: Advanced Data Structures
+- CSE 101: Design and Analysis of Algorithms 
 
 ## My Skills
 1. **Languages**: C++, C, Python, Java
