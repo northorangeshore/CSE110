@@ -11,11 +11,6 @@ One of quote that I like:
 1. **Languages**: C++, C, Python, Java
 2. **Tools**: Git, Visual Studio Code
 
-## Social Links
-- [Linked in](https://www.linkedin.com/in/kilhoon-kim-24886a244/)
-- [HandShake](https://ucsd.joinhandshake.com/profiles/6yrtq5)
-> Text that is a quote // Quoting text
-
 Some basic Git commands are: Quoting code
 ```
 git status
@@ -31,3 +26,7 @@ Link to the sample section: [Link Text](#kim-kilhoon-headings).
 - [ ] Internship
 - [ ] Expand Social Network
 - [ ] Find specific industry I want to work on
+## Social Links
+- [Linked in](https://www.linkedin.com/in/kilhoon-kim-24886a244/)
+- [HandShake](https://ucsd.joinhandshake.com/profiles/6yrtq5)
+
