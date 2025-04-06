@@ -7,7 +7,7 @@ One of quote that I like:
 > _You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world._\
 > _And these cold, unfeeling machines will show us the way. -Bill Gates_
 
-## Class that I been taking from school:
+## Classes that I have taken from school:
 - CSE 21: Mathematics for Algorithms and Systems
 - CSE 29: Systems Programming and Software Tools
 - CSE 30: Computer Organization
