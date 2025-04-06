@@ -32,9 +32,9 @@ git commit
 ```
 
 ## Things that I want to achieve this year:
-- [ ] Internship
-- [ ] Expand Social Network
-- [ ] Find specific industry I want to work on\
+[ ] Internship
+[ ] Expand Social Network
+[ ] Find specific industry I want to work on\
 
 ## Social Links
 - [Linked in](https://www.linkedin.com/in/kilhoon-kim-24886a244/)
