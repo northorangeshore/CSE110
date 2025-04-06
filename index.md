@@ -9,11 +9,16 @@ One of quote that I like:
 > _And these cold, unfeeling machines will show us the way. -Bill Gates_
 
 ## Classes that I have taken from school:
-- CSE 21: Mathematics for Algorithms and Systems
-- CSE 29: Systems Programming and Software Tools
-- CSE 30: Computer Organization
-- CSE 100: Advanced Data Structures
-- CSE 101: Design and Analysis of Algorithms 
+- CS A150: C++ Programming Language 1 [Orange Coast college](https://orangecoastcollege.edu/academics/business-computing/computer-science/courses.html)
+- CS A170: Java Programming 1 [Orange Coast college](https://orangecoastcollege.edu/academics/business-computing/computer-science/courses.html)
+- CS A200: Data Structures [Orange Coast college](https://orangecoastcollege.edu/academics/business-computing/computer-science/courses.html)
+- CS A250: C++ Programming Language 2 [Orange Coast college](https://orangecoastcollege.edu/academics/business-computing/computer-science/courses.html)
+- CS A262: Discrete Structures [Orange Coast college](https://orangecoastcollege.edu/academics/business-computing/computer-science/courses.html)
+- CSE 21: Mathematics for Algorithms and Systems [University of California, San Diego](https://catalog.ucsd.edu/courses/CSE.html)
+- CSE 29: Systems Programming and Software Tools [University of California, San Diego](https://catalog.ucsd.edu/courses/CSE.html)
+- CSE 30: Computer Organization [University of California, San Diego](https://catalog.ucsd.edu/courses/CSE.html)
+- CSE 100: Advanced Data Structures [University of California, San Diego](https://catalog.ucsd.edu/courses/CSE.html)
+- CSE 101: Design and Analysis of Algorithms [University of California, San Diego](https://catalog.ucsd.edu/courses/CSE.html)
 
 ## My Skills
 1. **Languages**: C++, C, Python, Java
