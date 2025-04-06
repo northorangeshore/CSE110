@@ -2,8 +2,8 @@
 Hi, my name is Kilhoon but just call me Andy.\
 I'm undergraduate junior student at Univesity of California, San Diego.\
 I am majoring **computer science**.
-My favorite language is **C++** so far, but I am recently interested on **Python**.
-One of quote that I like
+My favorite language is **C++** so far, but I am recently interested on **Python**.\
+One of quote that I like:
 > You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world. And these cold, unfeeling machines will show us the way.
 > -Bill Gates
 
