@@ -1,5 +1,3 @@
-# Introduce About Me
-
 ## About Me
 Hi, my name is Kilhoon but just call me Andy.\
 I'm undergraduate junior student at Univesity of California, San Diego.\
