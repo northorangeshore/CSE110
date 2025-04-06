@@ -24,7 +24,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 Link to the sample section: [Link Text](#kim-kilhoon-headings).
 [Contribution guidelines for this project](image/Kilhoon.jpg).
 
-## Things that I want to acheive this year:
+## Things that I want to achieve this year:
 - [ ] Internship
 - [ ] Expand Social Network
 - [ ] Find specific industry I want to work on
