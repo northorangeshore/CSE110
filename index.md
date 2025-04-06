@@ -2,7 +2,10 @@
 <img src="image/Kilhoon.jpg" alt="Description of the image" width="300" height="300">\
 Hi, my name is Kilhoon but just call me Andy. Here's my [Social Links](#social-links)\
 I'm undergraduate junior student at Univesity of California, San Diego.\
-I am majoring **computer science**.
+I am majoring **computer science**. I stared coding when I was 9th grade with how to print "Hello World" with using C.
+```
+printf("Hello World!");
+```
 My favorite language is **C++** so far, but I am recently interested on **Python**.\
 One of quote that I like:
 > _You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world._\
