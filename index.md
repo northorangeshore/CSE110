@@ -6,7 +6,7 @@ I am majoring **computer science**. I started coding when I was 9th grade with h
 ```
 printf("Hello World!"); 
 ```
-My favorite language is [**C++**](./README.md) so far, but I am recently interested on **Python**.\
+My favorite language is [**C++**](./README.html) so far, but I am recently interested on **Python**.\
 One of quote that I like:
 > _You see, antiquated ideas of kindness and generosity are simply bugs that must be programmed out of our world._\
 > _And these cold, unfeeling machines will show us the way. -Bill Gates_
