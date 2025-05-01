@@ -1,5 +1,5 @@
 ## About Me
-![This is me](image/kilhoon.jpg)\
+![This is me](image/Kilhoon.jpg)\
 Hi, my name is Kilhoon but just call me Andy. Here's my [Social Links](#social-links)\
 I'm undergraduate junior student at [Univesity of California, San Diego](image/ucsd.jpg).\
 I am majoring **computer science**. I started coding when I was 9th grade with how to print "Hello World" with using C.
